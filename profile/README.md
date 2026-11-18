@@ -1,4 +1,4 @@
-<p align="center"><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-dark.png"><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-light.png"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-light.gif"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-light.png" width="100%" alt="KUICS 보안 프로젝트 아카이브 · 공식 홈페이지로 이동"></picture></a></p>
+<p align="center"><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-light.png"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-dark.gif"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-light.gif"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/archive-motion-light.png" width="100%" alt="KUICS 보안 프로젝트 아카이브 · 공식 홈페이지로 이동"></picture></a></p>
 <p align="center">고려대학교 정보대학 정보보호동아리<br><sub>Korea University Institute of Computer Security</sub></p>
 <p align="center"><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-dark.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-home-light.png" width="256" alt="KUICS 홈페이지 바로가기"></picture></a> <a href="https://github.com/KUICS-KU/Project-2026-2"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-semester-dark.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/btn-semester-light.png" width="256" alt="2026-2 보안 프로젝트 둘러보기"></picture></a></p>
 <p align="center"><a href="#학기별-프로젝트">프로젝트</a> · <a href="#kuics-소개">KUICS 소개</a> · <a href="#주요-활동">활동</a> · <a href="#참여와-소식">참여와 소식</a></p>
@@ -13,7 +13,7 @@
 
 ## KUICS 소개
 
-**KUICS(퀵스)**는 **2005년 1월 11일** 설립된 고려대학교 정보대학 소속 정보보호동아리입니다. 정보보호에 대한 학문적 호기심과 올바른 윤리의식을 바탕으로 보안기술, 해킹과 방어기법, 해킹사고 대응을 연구합니다.
+**KUICS**(퀵스)는 **2005년 1월 11일** 설립된 고려대학교 정보대학 소속 정보보호동아리입니다. 정보보호에 대한 학문적 호기심과 올바른 윤리의식을 바탕으로 보안기술, 해킹과 방어기법, 해킹사고 대응을 연구합니다.
 
 스터디에서 기초 지식과 관심 분야를 익히고, 팀 프로젝트에서는 직접 문제를 정해 탐구하고 구현합니다. 멘토링을 통해 접근 방법을 점검하고, 진행 과정과 결과를 기록해 동료와 다음 학기 참여자들이 참고할 수 있도록 남깁니다.
 
