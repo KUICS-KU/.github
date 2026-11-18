@@ -1,12 +1,12 @@
 <p><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/security-console.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/security-console.gif" width="100%" alt="KUICS 보안 프로젝트 아카이브 · 홈페이지로 이동"></picture></a></p>
-<p align="center"><a href="https://kuics.korea.ac.kr/">🌐 홈페이지</a> · <a href="https://github.com/KUICS-KU/Project-2026-2">📂 프로젝트</a> · <a href="https://www.instagram.com/kuics.official/">📷 Instagram</a> · <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2lE66Z8wmdQV8bq7mVkKfzKqqMZSPIANJ6N6reI63yEXDsQ/viewform">👋 가입 신청</a></p>
+<p align="center"><a href="https://kuics.korea.ac.kr/">🌐 홈페이지</a> · <a href="https://github.com/KUICS-KU/Project-2026-2">📂 프로젝트</a> · <a href="https://www.instagram.com/kuics.official/">📷 Instagram</a> · <a href="https://script.google.com/macros/s/AKfycbwtns7yDOVE-0kfdcy06GR2FuNAZD4lkCInuwqH2ZcmB2r_dSygvrFmn4V6ecztxIOpuA/exec?view=apply">👋 가입 신청</a></p>
 <p align="center"><a href="#학기별-프로젝트">학기별 목록</a> · <a href="#kuics-소개">KUICS 소개</a> · <a href="#주요-활동">활동</a> · <a href="#참여와-소식">참여와 소식</a></p>
 
 ## 학기별 프로젝트
 
 팀이 탐구한 문제부터 구현 코드, 발표와 공개 보고서까지 학기별로 연결합니다. 학기를 선택하면 각 팀의 소개와 관련 저장소를 둘러볼 수 있습니다.
 
-팀 코드 저장소는 비공개이며, 운영진 승인 후 소속 팀 저장소를 조회할 수 있습니다. [👋 가입 신청](https://docs.google.com/forms/d/e/1FAIpQLSf2lE66Z8wmdQV8bq7mVkKfzKqqMZSPIANJ6N6reI63yEXDsQ/viewform)
+팀 코드 저장소는 비공개이며, 운영진 승인 후 소속 팀 저장소를 조회할 수 있습니다. [👋 가입 신청](https://script.google.com/macros/s/AKfycbwtns7yDOVE-0kfdcy06GR2FuNAZD4lkCInuwqH2ZcmB2r_dSygvrFmn4V6ecztxIOpuA/exec?view=apply)
 
 | 학기 | 프로그램 | 바로가기 |
 | :--- | :--- | :--- |
