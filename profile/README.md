@@ -6,6 +6,8 @@
 
 팀이 탐구한 문제부터 구현 코드, 발표와 공개 보고서까지 학기별로 연결합니다. 학기를 선택하면 각 팀의 소개와 관련 저장소를 둘러볼 수 있습니다.
 
+팀 코드 저장소는 비공개이며, 운영진 승인 후 소속 팀 저장소를 조회할 수 있습니다. [👋 가입 신청](https://docs.google.com/forms/d/e/1FAIpQLSf2lE66Z8wmdQV8bq7mVkKfzKqqMZSPIANJ6N6reI63yEXDsQ/viewform)
+
 | 학기 | 프로그램 | 바로가기 |
 | :--- | :--- | :--- |
 | **2026학년도 2학기** | 보안 멘토링 프로젝트 | **[프로젝트 둘러보기 →](https://github.com/KUICS-KU/Project-2026-2)** |
