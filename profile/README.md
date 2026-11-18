@@ -1,7 +1,6 @@
 <p><a href="https://kuics.korea.ac.kr/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/security-console.png"><img src="https://raw.githubusercontent.com/KUICS-KU/.github/main/assets/security-console.gif" width="100%" alt="KUICS 보안 프로젝트 아카이브 · 홈페이지로 이동"></picture></a></p>
-<p align="center">고려대학교 정보대학 정보보호동아리<br><sub>Korea University Institute of Computer Security</sub></p>
 <p align="center"><a href="https://kuics.korea.ac.kr/">🌐 홈페이지</a> · <a href="https://github.com/KUICS-KU/Project-2026-2">📂 프로젝트</a> · <a href="https://www.instagram.com/kuics.official/">📷 Instagram</a></p>
-<p align="center"><a href="#학기별-프로젝트">프로젝트</a> · <a href="#kuics-소개">KUICS 소개</a> · <a href="#주요-활동">활동</a> · <a href="#참여와-소식">참여와 소식</a></p>
+<p align="center"><a href="#학기별-프로젝트">학기별 목록</a> · <a href="#kuics-소개">KUICS 소개</a> · <a href="#주요-활동">활동</a> · <a href="#참여와-소식">참여와 소식</a></p>
 
 ## 학기별 프로젝트
 
